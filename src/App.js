@@ -1,24 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Layout } from "antd";
+import "./App.css";
+import "./css/utilities.css";
+import ProviderListing from "./scenes/ProvderListing/ProviderListing";
+import { H1 } from "./scenes/ProvderListing/ProviderListingStyles"
+const { Header, Content } = Layout;
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+      <Layout>
+        <Header style={{ position: "fixed", zIndex: 1, width: "100%" }}>
+          <H1>PROVID-20</H1>
+        </Header>
+        <Content
+          className="site-layout"
+          style={{ padding: "0 50px", marginTop: 64 }}
         >
-          Learn React
-        </a>
-      </header>
+          <ProviderListing />
+        </Content>
+      </Layout>
     </div>
   );
 }

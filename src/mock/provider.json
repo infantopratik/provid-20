@@ -1,0 +1,938 @@
+[
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  },
+  {
+    "ProfessionCode": 1,
+    "ProfessionName": "Audiologist",
+    "FileNumber": "937",
+    "ExpireDate": "12/31/2021",
+    "OriginalDate": "12/07/1998",
+    "RankCode": "AY",
+    "LicenseNumber": "946",
+    "StatusEffectiveDate": "01/01/1901",
+    "BoardActionIndicator": "N",
+    "LicenseStatusDescription": "CLEAR",
+    "LastName": "VANWATTEGHEM",
+    "FirstName": "KRISTEN",
+    "MiddleInitial": "D",
+    "NameSuffix": "",
+    "BusinessName": "",
+    "LicenseActiveStatusDescription": "ACTIVE",
+    "EmailAddress": "kvanwatteghem@manateehearing.com",
+    "AreaCode": "941",
+    "PhoneNumber": "749-5222",
+    "ModCode": "",
+    "PrescribingIndicator": "N",
+    "DispensingIndicator": "",
+    "Addresses": [
+      {
+        "AddressLine1": "MANATEE HEARING & SPEECH CENTE",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      },
+      {
+        "AddressLine1": "MANATEE HEARING AND SPEECH CEN",
+        "AddressLine2": "701 MANATEE AVENUE W STE 201",
+        "City": "BRADENTON",
+        "State": "FL",
+        "ZipCode": "34205",
+        "Type": "Mailing",
+        "County": {
+          "Code": "51",
+          "Name": "MANATEE"
+        },
+        "Country": "USA"
+      }
+    ]
+  }
+]
